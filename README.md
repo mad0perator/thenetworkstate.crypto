@@ -1,9 +1,11 @@
-# thenetworkstate.crypto
+# thenetworkstate.crypto website
 
-A decentralized website mirror of [thenetworkstate.com](http://thenetworkstate.com).
+A decentralized website mirror of [thenetworkstate.com][site].
 
-This site redirects to the pre-order page for the much anticipated book release of
-*The Network State* by Balaji Srinivasan on July 4, 2022.
+This site redirects user to [thenetworkstate.com][site]. The much 
+anticipated book, *The Network State* by Balaji Srinivasan, was 
+released recently on July 4, 2022 and is available at this [link][book]
+ 
 
-[The Network State: How to Start a New Country](https://www.amazon.com/dp/B09VPKZR3G)
-is available now for pre-order.
+[site]: https://thenetworkstate.com "How to Start a New Country"
+[book]: https://www.amazon.com/dp/B09VPKZR3G "The Network State: How to Start a New Country by Balaji Srinivasan"
